@@ -6,7 +6,7 @@ I'm passionate about:
     Strength training and staying active.
   
 - 🌱Currently Learning:
-I'm diving into React.js and working on an exciting group project with a team of four. Together, we're creating a system to rent electric bikes.
+I'm diving into React.js and working on an exciting group project with a team of two. Together, we're creating a real-time collaborative text-editor.
 
 - 💞️Open to collaborating on:
     Web development projects
