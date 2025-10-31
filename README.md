@@ -13,10 +13,6 @@ I'm diving into React.js and working on an exciting group project with a team of
     Full-stack applications
     Software development initiatives
   
-- 📫 How to Reach Me:
-    Facebook: [Your Facebook profile link]
-    LinkedIn: [Your LinkedIn profile link]
-    Email: [Your email address]
 - 😄 Pronouns:
     He/him
 
